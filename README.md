@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/tommasongr/nova-copyright/main/assets/nova-copyright.svg)
+![](https://raw.githubusercontent.com/tommasongr/nova-copyright/main/assets/nova-copyright.png)
 
 # Copyright © for Nova editor
 
