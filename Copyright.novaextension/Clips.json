@@ -1,14 +1,14 @@
 {
   "clips": [
     {
-      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "content": "<!---------------------------\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
       "name": "Copyright",
       "scope": "editor",
       "syntax": "html",
       "trigger": "copyright"
     },
     {
-      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "content": "<!---------------------------\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
       "name": "Copyright",
       "scope": "editor",
       "syntax": "xml",
@@ -22,21 +22,21 @@
       "trigger": "copyright"
     },
     {
-      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "content": "<!---------------------------\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
       "name": "Copyright",
       "scope": "editor",
       "syntax": "markdown",
       "trigger": "copyright"
     },
     {
-      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "content": "<!---------------------------\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
       "name": "Copyright",
       "scope": "editor",
       "syntax": "vue",
       "trigger": "copyright"
     },
     {
-      "content": "/*---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------*/\n",
+      "content": "/*---------------------------\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n---------------------------*/\n",
       "name": "Copyright",
       "scope": "editor",
       "syntax": "css",
@@ -47,6 +47,13 @@
       "name": "Copyright",
       "scope": "editor",
       "syntax": "javascript",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "swift",
       "trigger": "copyright"
     },
     {

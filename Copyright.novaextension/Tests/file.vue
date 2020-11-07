@@ -1,6 +1,6 @@
 <!---------------------------
- file.vue
- Copyright.novaextension
+file.vue
+nova-copyright
 
- Created by Tommaso Negri on 07/11/20.
+Created by Tommaso Negri on 07/11/20.
 ---------------------------->

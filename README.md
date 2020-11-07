@@ -6,7 +6,7 @@
 
 ## Details
 
-Copyright provides headers for the following languages:
+Copyright supports for the following languages:
 
 - HTML
 - CSS, SCSS, SASS

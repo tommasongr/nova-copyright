@@ -1,6 +1,6 @@
 <!---------------------------
- file.md
- Copyright.novaextension
+file.md
+nova-copyright
 
- Created by Tommaso Negri on 07/11/20.
+Created by Tommaso Negri on 07/11/20.
 ---------------------------->

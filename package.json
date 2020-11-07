@@ -1,0 +1,18 @@
+{
+  "name": "nova-copyright",
+  "version": "1.0.0",
+  "description": "Add copyright header to your files.",
+  "scripts": {
+    "build": "cp CHANGELOG.md README.md LICENSE Copyright.novaextension"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommasongr/nova-copyright.git"
+  },
+  "author": "Tommaso Negri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tommasongr/nova-copyright/issues"
+  },
+  "homepage": "https://github.com/tommasongr/nova-copyright#readme"
+}

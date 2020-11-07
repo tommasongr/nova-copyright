@@ -1,0 +1,11 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "#!\/bin\/sh\nnpm run build"
+    }
+  },
+  "identifier" : "48B20957-7D41-442D-9D53-54DBE5A4D7F5",
+  "openLogOnRun" : "start",
+  "persistent" : true
+}
