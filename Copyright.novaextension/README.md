@@ -6,7 +6,7 @@
 
 Inspired by **Xcode**.
 
-## Previews
+## Preview 👀
 
 Copyright autopopulate your headers with **filename**, **project name**, **author name** and **date of creation**.
 
@@ -22,7 +22,7 @@ Copyright autopopulate your headers with **filename**, **project name**, **autho
 
 ![Python Header](https://raw.githubusercontent.com/tommasongr/nova-copyright/main/assets/screenshots/screen-py.png)
 
-## Details
+## Details 📋
 
 Copyright supports for the following languages:
 
