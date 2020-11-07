@@ -1,0 +1,14 @@
+{
+  "identifier": "com.tommasonegri.Copyright",
+  "name": "Copyright",
+  "organization": "Tommaso Negri",
+  "description": "Add copyright header to your files.",
+  "version": "1.0",
+  "categories": ["clips"],
+  "license": "MIT",
+  "keywords": ["vue", "vuejs", "nova", "syntax", "code-edito", "panic"],
+  "repository": "https://github.com/tommasongr/nova-vue",
+  "homepage": "https://tommasonegri.com/?ref=nova",
+  "funding": "https://www.paypal.com/paypalme/tommasonegri/5EUR",
+  "bugs": "https://github.com/tommasongr/nova-vue/issues"
+}

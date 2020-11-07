@@ -1,0 +1,207 @@
+{
+  "clips": [
+    {
+      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "html",
+      "trigger": "copyright"
+    },
+    {
+      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "xml",
+      "trigger": "copyright"
+    },
+    {
+      "content": "<%# $FILENAME %>\n<%# $WORKSPACE_NAME %>\n\n<%# Created by $AUTHOR_NAME on $DATE. %>\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "erb",
+      "trigger": "copyright"
+    },
+    {
+      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "markdown",
+      "trigger": "copyright"
+    },
+    {
+      "content": "<!---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------->\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "vue",
+      "trigger": "copyright"
+    },
+    {
+      "content": "/*---------------------------\n $FILENAME\n $WORKSPACE_NAME\n\n Created by $AUTHOR_NAME on $DATE.\n---------------------------*/\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "css",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "javascript",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "sass",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "less",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "go",
+      "trigger": "copyright"
+    },
+    {
+      "content": "//\n//\t$FILENAME\n//\t$WORKSPACE_NAME\n//\n//\tCreated by $AUTHOR_NAME on $DATE.\n//\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "java",
+      "trigger": "copyright"
+    },
+    {
+      "content": "--\n--\t$FILENAME\n--\t$WORKSPACE_NAME\n--\n--\tCreated by $AUTHOR_NAME on $DATE.\n--\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "sql",
+      "trigger": "copyright"
+    },
+    {
+      "content": "--\n--\t$FILENAME\n--\t$WORKSPACE_NAME\n--\n--\tCreated by $AUTHOR_NAME on $DATE.\n--\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "lua",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "python",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "conf",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "procfile",
+      "trigger": "copyright"
+    },
+    {
+      "content": "@\n@\t$FILENAME\n@\t$WORKSPACE_NAME\n@\n@\tCreated by $AUTHOR_NAME on $DATE.\n@\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "arm",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "perl",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "ruby",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "yaml",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "shell",
+      "trigger": "copyright"
+    },
+    {
+      "content": "-#\n-#\t$FILENAME\n-#\t$WORKSPACE_NAME\n-#\n-#\tCreated by $AUTHOR_NAME on $DATE.\n-#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "haml",
+      "trigger": "copyright"
+    },
+    {
+      "content": ";\n;\t$FILENAME\n;\t$WORKSPACE_NAME\n;\n;\tCreated by $AUTHOR_NAME on $DATE.\n;\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "ini",
+      "trigger": "copyright"
+    },
+    {
+      "content": ";\n;\t$FILENAME\n;\t$WORKSPACE_NAME\n;\n;\tCreated by $AUTHOR_NAME on $DATE.\n;\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "clojure",
+      "trigger": "copyright"
+    },
+    {
+      "content": "%\n%\t$FILENAME\n%\t$WORKSPACE_NAME\n%\n%\tCreated by $AUTHOR_NAME on $DATE.\n%\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "erlang",
+      "trigger": "copyright"
+    },
+    {
+      "content": "#\n#\t$FILENAME\n#\t$WORKSPACE_NAME\n#\n#\tCreated by $AUTHOR_NAME on $DATE.\n#\n",
+      "name": "Copyright",
+      "scope": "editor",
+      "syntax": "env",
+      "trigger": "copyright"
+    },
+    {
+      "content": "###\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n###\n",
+      "name": "Copyright CoffeeScript",
+      "scope": "editor",
+      "syntax": "coffeescript",
+      "trigger": "copyright"
+    },
+    {
+      "content": "{*\n$FILENAME\n$WORKSPACE_NAME\n\nCreated by $AUTHOR_NAME on $DATE.\n*}\n",
+      "name": "Copyright Smarty",
+      "scope": "editor",
+      "syntax": "smarty",
+      "trigger": "copyright"
+    },
+    {
+      "content": "<%# $FILENAME %>\n<%# $WORKSPACE_NAME %>\n\n<%# Created by $AUTHOR_NAME on $DATE. %>\n",
+      "name": "Copyright HTML (ERB)",
+      "scope": "editor",
+      "syntax": "html+erb",
+      "trigger": "copyright"
+    }
+  ]
+}
