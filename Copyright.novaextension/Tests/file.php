@@ -1,7 +1,8 @@
-<!---------------------------
-	 file.php
-	 nova-copyright
-	
-	 Created by Tommaso Negri on 07/11/20.
-	---------------------------->
-	
+<?php
+//
+//	file.php
+//	nova-copyright
+//
+//	Created by Tommaso Negri on 04/09/21.
+//
+?>
