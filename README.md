@@ -50,12 +50,10 @@ Copyright supports for the following languages:
 - Less
 - ENV
 - ERB
-- PHP (\*)
+- PHP
 - Smarty
 - SQL
 - Arm
 - Procfile
 - Erlang
 - Clojure
-
-(\*) May need manual indentation fix
